@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-dotnet new console -o 0-new_project --framework net7.0
+dotnet new console -o 0-new_project --framework net10.0
