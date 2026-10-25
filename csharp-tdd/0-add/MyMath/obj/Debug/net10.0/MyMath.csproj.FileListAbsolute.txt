@@ -1,0 +1,12 @@
+C:\Users\kamun\Desktop\alu-csharp\csharp-tdd\0-add\MyMath\bin\Debug\net10.0\MyMath.deps.json
+C:\Users\kamun\Desktop\alu-csharp\csharp-tdd\0-add\MyMath\bin\Debug\net10.0\MyMath.dll
+C:\Users\kamun\Desktop\alu-csharp\csharp-tdd\0-add\MyMath\bin\Debug\net10.0\MyMath.pdb
+C:\Users\kamun\Desktop\alu-csharp\csharp-tdd\0-add\MyMath\obj\Debug\net10.0\MyMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamun\Desktop\alu-csharp\csharp-tdd\0-add\MyMath\obj\Debug\net10.0\MyMath.AssemblyInfoInputs.cache
+C:\Users\kamun\Desktop\alu-csharp\csharp-tdd\0-add\MyMath\obj\Debug\net10.0\MyMath.AssemblyInfo.cs
+C:\Users\kamun\Desktop\alu-csharp\csharp-tdd\0-add\MyMath\obj\Debug\net10.0\MyMath.csproj.CoreCompileInputs.cache
+C:\Users\kamun\Desktop\alu-csharp\csharp-tdd\0-add\MyMath\obj\Debug\net10.0\MyMath.sourcelink.json
+C:\Users\kamun\Desktop\alu-csharp\csharp-tdd\0-add\MyMath\obj\Debug\net10.0\MyMath.dll
+C:\Users\kamun\Desktop\alu-csharp\csharp-tdd\0-add\MyMath\obj\Debug\net10.0\refint\MyMath.dll
+C:\Users\kamun\Desktop\alu-csharp\csharp-tdd\0-add\MyMath\obj\Debug\net10.0\MyMath.pdb
+C:\Users\kamun\Desktop\alu-csharp\csharp-tdd\0-add\MyMath\obj\Debug\net10.0\ref\MyMath.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kamun\\OneDrive\\Desktop\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj": {}
+    "C:\\Users\\kamun\\Desktop\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kamun\\OneDrive\\Desktop\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj": {
+    "C:\\Users\\kamun\\Desktop\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kamun\\OneDrive\\Desktop\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
+        "projectUniqueName": "C:\\Users\\kamun\\Desktop\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
         "projectName": "0-print_array",
-        "projectPath": "C:\\Users\\kamun\\OneDrive\\Desktop\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
+        "projectPath": "C:\\Users\\kamun\\Desktop\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
         "packagesPath": "C:\\Users\\kamun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kamun\\OneDrive\\Desktop\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\obj\\",
+        "outputPath": "C:\\Users\\kamun\\Desktop\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kamun\\AppData\\Roaming\\NuGet\\NuGet.Config"
