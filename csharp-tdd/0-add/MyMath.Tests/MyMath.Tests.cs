@@ -1,15 +1,18 @@
-﻿namespace MyMath.Tests;
+﻿using NUnit.Framework;
 
-public class Tests
+namespace MyMath.Tests
 {
-    [SetUp]
-    public void Setup()
+    [TestFixture]
+    public class OperationsTests
     {
-    }
-
-    [Test]
-    public void Test1()
-    {
-        Assert.Pass();
+        [TestCase(1, 2, 3)]
+        [TestCase(0, 0, 0)]
+        [TestCase(-1, -2, -3)]
+        [TestCase(-5, 5, 0)]
+        [TestCase(100, 250, 350)]
+        public void Add_ReturnsSum(int a, int b, int expected)
+        {
+            Assert.That(Operations.Add(a, b), Is.EqualTo(expected));
+        }
     }
 }
